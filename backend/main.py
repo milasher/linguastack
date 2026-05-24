@@ -1,0 +1,1 @@
+print("LinguaStack backend starting...")
